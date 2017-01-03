@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\java\projects\com.miloisbadboy.PullToRefreshViewActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="29b1ebbbbb0cc7191dac8ffd2237aba2653b53c6">
+        <dex dex="D:\java\projects\com.miloisbadboy.PullToRefreshViewActivity\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c3cbb1f2c80e95d48c63a4607b22122ce105b754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\projects\com.miloisbadboy.PullToRefreshViewActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58caf8ddf2208dcf2f360fb712abfe09c83ad53e">
+        <dex dex="D:\java\projects\com.miloisbadboy.PullToRefreshViewActivity\app\build\intermediates\pre-dexed\debug\instant-run_252b3c9ee87438f1f579b3235d72823d3e5d9dc0.jar" />
+    </item>
+
+</items>

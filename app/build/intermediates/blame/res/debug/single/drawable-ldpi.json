@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_pulltorefresh_arrow.png",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\drawable-ldpi\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_pulltorefresh_arrow_up.png",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\drawable-ldpi\\ic_pulltorefresh_arrow_up.png"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

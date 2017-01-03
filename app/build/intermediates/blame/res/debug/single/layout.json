@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_listview.xml",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\layout\\test_listview.xml"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_gridview.xml",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\layout\\test_gridview.xml"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_scrollview.xml",
+        "source": "D:\\java\\projects\\com.miloisbadboy.PullToRefreshViewActivity\\app\\src\\main\\res\\layout\\test_scrollview.xml"
+    }
+]
